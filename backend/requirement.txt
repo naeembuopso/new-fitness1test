@@ -1,0 +1,7 @@
+fastapi[all]
+sqlalchemy
+asyncpg
+psycopg2
+passlib[bcrypt]===
+python-jose==3.3.0
+uuid===1.30
